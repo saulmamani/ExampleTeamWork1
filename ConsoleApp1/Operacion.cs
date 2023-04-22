@@ -10,13 +10,12 @@ namespace ConsoleApp1
     {
         static public int Sumar(int n1, int n2)
         {
-            ///TODO trabajo en equipo;
-            return 0;
+            return n1 + n2;
         }
 
         internal static object Dividir(int numero1, int numero2)
         {
-            throw new NotImplementedException();
+            return numero1 / numero2;
         }
 
         internal static object Multiplicar(int numero1, int numero2)
