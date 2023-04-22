@@ -13,5 +13,20 @@ namespace ConsoleApp1
             ///TODO trabajo en equipo;
             return 0;
         }
+
+        internal static object Dividir(int numero1, int numero2)
+        {
+            throw new NotImplementedException();
+        }
+
+        internal static object Multiplicar(int numero1, int numero2)
+        {
+            throw new NotImplementedException();
+        }
+
+        internal static object Restar(int numero1, int numero2)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
